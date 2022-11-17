@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Gizaw Agodo</h1>
-<h3 align="center">A passionate Software engineer And Ai Enthusiast From Ethiopia</h3>
+<h3 align="center">A passionate Software engineer From Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gizaw-agodo&label=Profile%20views&color=0e75b6&style=flat" alt="gizaw-agodo" /> </p>
 
