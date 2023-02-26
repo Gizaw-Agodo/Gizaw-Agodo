@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Gizaw-Agodo)
 
-- 📫Reach me on : [my website](https://gizaw-agodo.github.io/UGR-8917-12/),[Linked in ](https://www.linkedin.com/in/gizaw-ag-671390218/),[Telegram](https://t.me/gzag15l),[Gmail](gizawag123@gmail.com)
+- 📫Reach me on : [my website](https://gizaw-portifolio.netlify.app/),[Linked in ](https://www.linkedin.com/in/gizaw-ag-671390218/),[Telegram](https://t.me/gzag15l),[Gmail](gizawag123@gmail.com)
 
 - ⚡ Fun fact **I like chilling to much**
 
