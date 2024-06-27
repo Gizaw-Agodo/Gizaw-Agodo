@@ -6,11 +6,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: [my website](https://gizaw-agodo.github.io/UGR-8917-12/),[Linked in ](https://www.linkedin.com/in/gizaw-ag-671390218/),[Telegram](urhttps://t.me/gzag15l),[Gmail](gizawag123@gmail.com)
+- 📫 How to reach me: [my website](https://my-portifolio-2.netlify.app/),[Linked in ](https://www.linkedin.com/in/gizaw-ag-671390218/),[Telegram](urhttps://t.me/gzag15l),[Gmail](gizawag123@gmail.com)
 )
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -20,19 +19,18 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Gizaw Agodo</h1>
 <h3 align="center">A passionate Software engineer From Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gizaw-agodo&label=Profile%20views&color=0e75b6&style=flat" alt="gizaw-agodo" /> </p>
 
-<p align="left"> <a href="#https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gizaw-agodo" alt="gizaw-agodo" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development Projects and Internships**
+- 🌱 I’m currently working on **full stack projects using React, Node.js, ASP.NET Core, and Django**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Gizaw-Agodo)
 
 - 📫Reach me on : [my website](https://gizaw-portifolio.netlify.app/),[Linked in ](https://www.linkedin.com/in/gizaw-ag-671390218/),[Telegram](https://t.me/gzag15l),[Gmail](gizawag123@gmail.com)
 
-- ⚡ Fun fact **I like chilling to much**
+- ⚡ Fun fact **I write cleaner code than I keep my room!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
