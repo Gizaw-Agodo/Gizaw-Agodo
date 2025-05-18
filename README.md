@@ -1,8 +1,12 @@
+# 👋 Hey there, I'm Gizaw Agodo!
 
-<h1 align="center">Hey there 👋, I'm Gizaw Agodo</h1>
-<h3 align="center">🚀 Passionate Full-Stack Software Engineer from Ethiopia 🇪🇹</h3>
+<h3 >🚀 Passionate Full-Stack Software Engineer from Ethiopia 🇪🇹</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF2D55&center=true&vCenter=true&width=440&lines=Full-Stack+Software+Engineer;Building+Awesome+Web+Apps;From+Ethiopia+🇪🇹+with+💻" alt="Typing SVG" />
+</p>
+
+<p >
   <a href="https://gizaw-portifolio.netlify.app/" target="_blank">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/gizaw-ag-671390218/" target="_blank">💼 LinkedIn</a> •
   <a href="https://t.me/gzag15l" target="_blank">💬 Telegram</a> •
@@ -134,9 +138,20 @@
 
 ---
 
-### 🤓 Fun Fact
+## 🏆 Featured Projects
 
-> I write cleaner code than I keep my room! 😄
+- **[Portfolio Website](https://gizaw-portifolio.netlify.app/)**  
+  A sleek, responsive portfolio built with **React** and **Tailwind CSS** to showcase my projects and skills.  
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&style=flat-square" />
+
+- **[E-Commerce Platform](https://github.com/Gizaw-Agodo/ecommerce)**  
+  A full-stack e-commerce app with **Django**, **PostgreSQL**, and **Stripe** for payments. Features user authentication and product filtering.  
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&style=flat-square" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&style=flat-square" />
+
+- **[Task Manager](https://github.com/Gizaw-Agodo/task-manager)**  
+  A productivity app built with **Vue.js** and **Node.js**, featuring real-time updates with **WebSocket**.  
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&style=flat-square" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&style=flat-square" />
+
 
 ---
 
@@ -156,4 +171,3 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge" />
   </a>
 </p>
-
