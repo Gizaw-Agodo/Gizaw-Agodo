@@ -7,7 +7,7 @@
 </p>
 
 <p >
-  <a href="https://gizaw-portifolio.netlify.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://gizaw-agodo.vercel.app/" target="_blank">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/gizaw-ag-671390218/" target="_blank">💼 LinkedIn</a> •
   <a href="https://t.me/gzag15l" target="_blank">💬 Telegram</a> •
   📧 gizawag123@gmail.com
